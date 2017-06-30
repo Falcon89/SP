@@ -760,7 +760,7 @@
 }
 body {
   font-family: lato;
- background: url(/img/logos.jpg) no-repeat center center fixed;
+/* background: url(/img/logos.jpg) no-repeat center center fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1092,16 +1092,98 @@ font-weight: 700;
     text-align: justify;
      font-size: 16px;
     font-family: "Century Gothic";
+    
 }
 .sp_logo{
-    width: 45%;
+    
+    width: 6%;
+   font-family: "Century Gothic";
+font-size: 13px;
+font-weight: bold;
+line-height: 12px;
+   
+text-transform: uppercase;
+    margin-left: -205px;
+    vertical-align:baseline;
 }
-.contact_home{
-    width: 20px;
+.sp_logo_text{
+  color: #8f8f8f;
+    text-transform: uppercase;
 }
-.contact_home_text{
+.sp_logo img{
+    vertical-align:baseline;
+}
+
+.sp_logo2{
+    width: 90%;
+    font-size: 13px;
+}
+.sp_logo p{
+
+    text-align:left;
+   
+}
+
+.sp_logo2{
+  width: 100%;  
+}
+.sp_logo2_iron{
+    width: 60%;
+}
+.sp_logo_mayer{
+    width: 60%;
+}
+
+.sp_logo3{
+  width: 40%;  
+}
+.sp_logo4{
+  width: 100%;  
+}
+.sp_logo5{
+    width: 2%;
     text-align: left;
 }
+.text_sf4{
+    color: #be1b23;
+font-family: Tahoma;
+font-size: 15px;
+font-weight: 600;
+line-height: 16px;
+}
+.sfera_text span{
+     text-indent: 20px;
+    font-family: "Century Gothic";
+font-size: 18px;
+/* Text style for "Sfera Part" */
+color: #ff0000;
+}
+.sfera_text{
+     text-indent: 30px;
+    font-family: "Century Gothic";
+font-size: 18px;
+    font-weight: 500;
+    text-align: justify;
+/*    line-height: 19px;*/
+    
+}
+.sfera_text_kat{
+     text-indent: 30px;
+    font-family: "Century Gothic";
+font-size: 16px;
+    font-weight: 500;
+    text-align: justify;
+    line-height: 19px;
+    
+}
+.sf_text2{
+    color: #5a5754;
+font-family: "Century Gothic";
+font-size: 17px;
+font-weight: 600;
+    text-align: justify;
+}
+
 
 /*search*/
 @-webkit-keyframes roll {
@@ -1361,6 +1443,12 @@ footer{ background:#c1c1c1; }
    margin-top: 20px; 
     margin-right: 3px;
 }
+.web_icon{
+   margin-right: 3px; 
+    margin-top: 25px; 
+width: 45%;
+}
+
 .look_product_buttom{
    margin-top: 8px;  
 }
@@ -2212,11 +2300,29 @@ Detail
     }  
 }
 
+.k_aigner{
+    color: #1a1a18;
+font-family: "Century Gothic";
+font-size: 13px;
+font-weight: 400;
+    text-align: left;
+}
 
+.kat_aig{
+    color: #000000;
+font-family: "Century Gothic";
+font-size: 14px;
+font-weight: bold;
+line-height: 16px;
+}
 
-
-
-
+.clever_ol{
+    color: #000000;
+font-size: 16px;
+font-weight: 700;
+    color: #5a5754;
+    font-family: "Century Gothic";
+}
 
 
 
